@@ -5,12 +5,12 @@
   "engines": {
     "node": "22.x"
   },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint ."
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "eslint ."
+},
   "dependencies": {
     "drizzle-orm": "0.45.2",
     "next": "16.2.6",
